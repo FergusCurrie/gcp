@@ -1,0 +1,2 @@
+# gcp
+GCP practice repo. 
